@@ -27,7 +27,7 @@
 ⚡ **Fun fact**
 - I enjoy building security tools and explaining complex concepts in simple words 🚀  
 
-🎓 **B.Tech IT (3rd Year)** | 💻 Software Engineering | 🔐 Cybersecurity | ☁️ Cloud Enthusiast  
+🎓 **B.Tech IT (3rd Year)** | 💻 Software Engineering | 🔐 Cybersecurity | ☁️ Cloud Enthusiast
 
 ---
 
@@ -41,17 +41,27 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=suryaviswanadh&theme=dark&show_icons=true)
-![](https://streak-stats.demolab.com/?user=suryaviswanadh&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryaviswanadh&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryaviswanadh&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=suryaviswanadh&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryaviswanadh&layout=compact&theme=dark)
 
 ---
 
